@@ -26,3 +26,11 @@ python3 scripts/run_aggregate_results.py
 ```
 
 The plots showing the aggregated results will be saved in plots/ and the corresponding tables with all the numbers in results/*/metrics
+
+## License
+
+This project is licensed under the [MIT](https://opensource.org/license/mit/) - see the [LICENSE](LICENSE) file for details.
+
+## Acknowledgments
+
+We would like to thank the members of the LHCb Collaboration for useful discussions that helped improve this work. Arsenii Gavrikov is supported by the European Union’s Horizon 2020 research and innovation programme under the Marie Skłodowska-Curie Grant Agreement No. 101034319 and from the European Union – NextGenerationEU. This work has also been supported by the National Resilience and Recovery Plan (PNRR) through the National Center for HPC, Big Data and Quantum Computing.
