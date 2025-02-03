@@ -27,6 +27,24 @@ python3 scripts/run_aggregate_results.py
 
 The plots showing the aggregated results will be saved in plots/ and the corresponding tables with all the numbers in results/*/metrics
 
+## Paper 
+
+Paper is availible online on [arXiv](https://arxiv.org/abs/2501.19237).
+
+## Citation
+
+```BibTeX
+@article{DINAMO,
+    author = "Gavrikov, Arsenii and Garc\'\i{}a Pardi\~nas, Juli\'an and Garfagnini, Alberto",
+    title = "{DINAMO: Dynamic and INterpretable Anomaly MOnitoring for Large-Scale Particle Physics Experiments}",
+    eprint = "2501.19237",
+    archivePrefix = "arXiv",
+    primaryClass = "hep-ex",
+    month = "1",
+    year = "2025"
+}
+```
+
 ## License
 
 This project is licensed under the [MIT](https://opensource.org/license/mit/) - see the [LICENSE](LICENSE) file for details.
